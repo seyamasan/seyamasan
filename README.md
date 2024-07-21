@@ -2,9 +2,7 @@
 
 Hi,I'm a mobile app engineer.🥭
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyamasan)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyamasan&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyamasan&show_icons=true&theme=swift)
 
 <!--
 **seyamasan/seyamasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
