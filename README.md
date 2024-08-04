@@ -11,7 +11,7 @@ class SeyamaActivity : AppCompatActivity() {
 
     binding.name.text = "Seyama Kota"
     binding.live.text = "japan"
-    binding.job.text = "mobile engineer"
+    binding.job.text = "mobile app engineer"
     binding.hobby.text = "sauna"
     binding.greeting.text = "konnichiwa!!!"
   }
